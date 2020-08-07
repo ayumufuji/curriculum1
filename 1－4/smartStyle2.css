@@ -1,0 +1,28 @@
+@media screen and (max-width: 767px) {
+    .header {
+        width: 300px;
+    }
+    
+    .left-side {
+        width:100px;
+    }
+
+    .left-side2 {
+        width:125px;
+    }
+
+    .right-side2 {
+        width:75px;
+    }
+    
+    .footer {
+        height: 200px;
+    }
+}
+
+@media screen and (max-width:479px) {
+  body {
+      width:150px;
+  }
+
+}
