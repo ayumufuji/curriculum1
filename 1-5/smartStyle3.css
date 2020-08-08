@@ -1,0 +1,41 @@
+@media screen and (max-width: 479px) {
+
+.header {
+           width: 200px; 
+           height: 250px;
+    }
+    
+.boxes1 {
+          position: absolute;
+          bottom: 350px;
+          right: 370px;
+          float: left;
+}
+    
+.boxes2 {
+       transform: rotate( 90deg );
+       float: left;
+       position: absolute;
+       top: 80px;
+       left: 170px
+      }
+    
+.left {
+    position: relative; 
+    width: 200px;
+}
+
+.right {
+      width: 200px;  
+      position: relative;
+      
+
+} 
+
+.footer {
+    width: 200px;
+    position: relative;
+    
+}
+
+}
