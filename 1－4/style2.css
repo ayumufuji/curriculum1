@@ -35,7 +35,7 @@
     width: 150px;
 }
 
-.center3{
+.center3{ 
     background-color:#8c2727;
     height: 100px;
     width: 250px;
@@ -64,4 +64,8 @@
 
 .left-side2 {
     float: left;
+}
+
+.bottom {
+    float: right;
 }
